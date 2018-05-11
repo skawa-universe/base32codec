@@ -1,0 +1,8 @@
+name: base32codec
+version: 0.9.0
+author: Peter Siroki <psiroki@skawa.hu>
+description: An idiomatic implementation of the Base32 encoding.
+homepage: https://github.com/skawa-universe/base32codec
+
+dev_dependencies:
+  test: "^0.12.34"
